@@ -2,4 +2,10 @@
     <string name="app_name">fastcampus_13</string>
     <string name="login_button">로그인</string>
     <string name="sign_up_button">회원가입</string>
+
+    <string name="facebook_app_id">270179668497205</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">2569f1ce8732ba2b1fdf66981192baef</string>
+
+
 </resources>
