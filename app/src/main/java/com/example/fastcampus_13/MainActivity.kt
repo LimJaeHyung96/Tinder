@@ -21,6 +21,9 @@ class MainActivity : AppCompatActivity() {
         if(auth.currentUser == null){
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
+        } else {
+            val intent = Intent(this, LikeActivity::class.java)
+            startActivity(intent)
         }
     }
 }
