@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         } else {
             val intent = Intent(this, LikeActivity::class.java)
             startActivity(intent)
+            finish()
         }
     }
 }
