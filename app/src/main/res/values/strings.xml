@@ -3,9 +3,9 @@
     <string name="login_button">로그인</string>
     <string name="sign_up_button">회원가입</string>
 
-    <string name="facebook_app_id">270179668497205</string>
-    <string name="fb_login_protocol_scheme">fb1234</string>
-    <string name="facebook_client_token">2569f1ce8732ba2b1fdf66981192baef</string>
+    <string name="facebook_app_id">secret</string>
+    <string name="fb_login_protocol_scheme">secret</string>
+    <string name="facebook_client_token">secret</string>
     <string name="sign_out_text">로그아웃 하기</string>
     <string name="match_list_text">매치 리스트 보기</string>
     <string name="no_card_text">매칭할 카드가 없습니다</string>
